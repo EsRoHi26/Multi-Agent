@@ -19,3 +19,5 @@
    ```
    python main.py
    ```
+### Nota
+Este software no ha sido probado por la ausencia de un API-key de OpenIA
